@@ -1,0 +1,2 @@
+terminal 
+gcc your_file.c -o your_program && ./your_program 
